@@ -10,3 +10,4 @@ Another benefit of the LMS is its ability to protect the confidentiality of the 
 In summary, the Library Management System is a powerful tool that can help libraries to efficiently and securely manage their book collections. Its ability to digitize catalog, track books status, and protect data confidentiality, make it an essential tool for librarians and other library staff.
 
 Code Editor: Visual Studio Code
+Programming language: C
